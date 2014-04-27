@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Apr 27 18:15:32 CEST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0145-a3f8-568c-0000000de600 
+on database directory D:\Aprender juntos\SPRING FRAMEWORK\FEB_2014\simpleDb with class loader sun.misc.Launcher$AppClassLoader@107077e 
+Loaded from file:/D:/Aprender%20juntos/SPRING%20FRAMEWORK/FEB_2014/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_51-b13
+user.dir=D:\Aprender juntos\SPRING FRAMEWORK\FEB_2014\workspace\TestHibernateJPA2
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
